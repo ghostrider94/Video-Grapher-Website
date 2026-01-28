@@ -13,7 +13,7 @@ A modern and responsive portfolio website designed for **videographers and conte
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](screenshots/home.jpeg)
+![Homepage Screenshot](screenshots/home.png.jpeg)
 
 ### 🎬 Portfolio Section
 ![Portfolio Screenshot](screenshots/portfolio.jpeg)
