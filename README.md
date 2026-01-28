@@ -40,3 +40,16 @@ No frameworks. No dependencies. Pure web technologies.
 ---
 
 ## 📂 Project Structure
+
+Video-Grapher-Website/
+├── assets/
+│ ├── images/
+│ ├── videos/
+│ └── icons/
+├── screenshots/
+│ ├── home.png
+│ └── portfolio.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
